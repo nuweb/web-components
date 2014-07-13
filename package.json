@@ -1,0 +1,15 @@
+{
+	"name": "web-components",
+	"version": "0.0.0",
+	"description": "Guide to web components",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"express": "*",
+		"connect": "*"
+	},
+	"author": "Chandra Sekhar Veera",
+	"license": "ISC"
+}
